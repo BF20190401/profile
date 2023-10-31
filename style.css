@@ -1,0 +1,58 @@
+
+.heading {
+  color:blue;
+  font-size: 40px
+}
+
+.img-circle {
+  border-radius: 80%;
+}
+
+.container {
+  width: 900px;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.font_family {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:rgb(20, 51, 151);
+  font-size: 20px;
+}
+
+.list_info {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+}
+
+.myDiv {
+  border: 5px outset rgba(187, 191, 204, 0.854);
+  background-color: rgb(245, 248, 249);
+  text-align: center;
+  padding: 30px;
+  margin: 20px;
+  box-shadow: 2px 2px 3px black;
+  border-radius: 5px;
+}
+
+.icon_display {
+  list-style: none;
+  padding: 0px 10px;
+  display: inline-block;
+  font-size: 40px
+  text-align: centre;
+}
+
+.button {
+  font-size: 25px;
+  border: 2px;
+  border-radius: 5px;
+  background-color: aliceblue;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: rgb(4, 27, 19);
+  color: white;
+}
